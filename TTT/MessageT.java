@@ -1,0 +1,5 @@
+package TTT;
+
+public enum MessageT {
+	INIT, JOIN, STEP, CLOSING, WINNER, DEUCE, CONTROL, ROOM, TEXT, START, AD, IN, QUIT
+}
